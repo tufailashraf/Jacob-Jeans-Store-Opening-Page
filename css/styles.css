@@ -6,7 +6,7 @@
   h1 {
     font-size: 40px;
     font-weight: 700;
-    margin: 0;
+    margin: 20px auto;
   }
   body .content {
     padding-bottom: 55px;
@@ -83,6 +83,7 @@
   @media (max-width: 768px) {
     h1 {
       font-size: 30px;
+      margin: 10px auto;
     }
     h2 {
       font-size: 18px;
@@ -96,6 +97,7 @@
   @media (max-width: 575px) {
     h1 {
       font-size: 28px;
+      margin: 0;
     }
     h2 {
       font-size: 17px;
