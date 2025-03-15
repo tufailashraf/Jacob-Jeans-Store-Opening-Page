@@ -9,7 +9,7 @@
     margin: 0;
   }
   body .content {
-    padding-bottom: 90px;
+    padding-bottom: 55px;
   }
   a,
   h2 {
@@ -19,6 +19,7 @@
   }
   h2 {
     font-size: 24px;
+    margin: 0 !important;
   }
   a {
     font-size: 18px;
@@ -175,8 +176,14 @@
   
   @media (max-width: 575px) {
     body > :first-child > :nth-child(2) img {
+        position: absolute;
+        top: 60px;
       max-width: 280px;
       width: 85%;
+    }
+
+    body .container .content div img {
+        margin: 0 !important;
     }
   }
   
