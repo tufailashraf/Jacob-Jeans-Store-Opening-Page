@@ -115,7 +115,7 @@ a {
 @media (max-width: 575px) {
   h1 {
     font-size: 28px;
-    /* padding-bottom: 30px !important; */
+    margin: 0 auto 30px !important;
   }
 
   h2 {
