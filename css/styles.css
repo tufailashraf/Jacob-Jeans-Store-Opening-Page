@@ -206,9 +206,9 @@ body> :first-child> :nth-child(2) img {
     width: 85%;
   }
 
-  body .container .content div img {
+/*   body .container .content div img {
     margin: 0 !important;
-  }
+  } */
 }
 
 /* body .container {
