@@ -193,7 +193,6 @@
   body > :first-child > :nth-child(3) {
     text-align: center;
     display: flex;
-    gap: 0.5rem;
     flex-direction: column;
   }
   
