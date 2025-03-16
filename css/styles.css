@@ -181,7 +181,7 @@
   @media (max-width: 575px) {
     body > :first-child > :nth-child(2) img {
         position: absolute;
-        top: 60px;
+        top: 50px !important;
       max-width: 280px;
       width: 85%;
     }
@@ -189,6 +189,10 @@
     body .container .content div img {
         margin: 0 !important;
     }
+  }
+
+  body .container {
+    position: relative;
   }
   
   /* ======= CONTENEDOR DE TEXTO ======= */
