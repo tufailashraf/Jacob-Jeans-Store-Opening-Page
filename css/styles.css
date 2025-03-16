@@ -115,6 +115,7 @@ a {
 @media (max-width: 575px) {
   h1 {
     font-size: 28px;
+    /* padding-bottom: 30px !important; */
   }
 
   h2 {
@@ -199,20 +200,20 @@ body> :first-child> :nth-child(2) img {
 
 @media (max-width: 575px) {
   body> :first-child> :nth-child(2) img {
-    position: absolute;
-    top: 40px !important;
+    /* position: absolute;
+    top: 40px !important; */
     max-width: 280px;
     width: 85%;
   }
 
-  body .container .content div img {
+  /* body .container .content div img {
     margin: 0 !important;
-  }
+  } */
 }
 
-body .container {
+/* body .container {
   position: relative;
-}
+} */
 
 /* ======= CONTENEDOR DE TEXTO ======= */
 body> :first-child> :nth-child(3) {
