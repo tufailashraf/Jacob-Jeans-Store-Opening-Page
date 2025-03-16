@@ -243,4 +243,5 @@ body> :first-child> :nth-child(3)> :nth-child(4) a {
   color: white;
   text-underline-offset: 3px;
   text-decoration: underline white;
+  line-height: 0 !important;
 }
