@@ -181,7 +181,7 @@
   @media (max-width: 575px) {
     body > :first-child > :nth-child(2) img {
         position: absolute;
-        top: 50px !important;
+        top: 40px !important;
       max-width: 280px;
       width: 85%;
     }
