@@ -87,6 +87,7 @@
     }
     h2 {
       font-size: 18px;
+      line-height: 25px;
     }
     a {
       font-size: 14px;
@@ -129,6 +130,7 @@
     width: 95%;
     height: 95%;
     align-items: center;
+    position: relatve;
   }
   
   /* ======= IMAGEN PRINCIPAL ======= */
