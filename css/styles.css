@@ -8,7 +8,7 @@
 h1 {
   font-size: 40px;
   font-weight: 700;
-  margin: 20px auto 10px;
+  margin: 20px auto;
 }
 
 body .content {
@@ -98,7 +98,6 @@ a {
 @media (max-width: 768px) {
   h1 {
     font-size: 30px;
-    margin: 10px auto;
   }
 
   h2 {
@@ -116,7 +115,6 @@ a {
 @media (max-width: 575px) {
   h1 {
     font-size: 28px;
-    margin: 0;
   }
 
   h2 {
