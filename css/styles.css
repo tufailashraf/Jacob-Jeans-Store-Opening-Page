@@ -114,9 +114,7 @@ a {
 /* Menores a 575px */
 @media (max-width: 575px) {
   h1 {
-    line-height: 38px;
     font-size: 28px;
-    padding-bottom: 30px !important;
   }
 
   h2 {
