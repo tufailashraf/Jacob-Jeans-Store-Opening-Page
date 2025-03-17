@@ -8,12 +8,12 @@
 h1 {
   font-size: 40px;
   font-weight: 700;
-/*   margin: 20px auto; */
+  margin: 20px auto;
 }
 
-/* body .content {
+body .content {
   padding-bottom: 55px;
-} */
+}
 
 a,
 h2 {
