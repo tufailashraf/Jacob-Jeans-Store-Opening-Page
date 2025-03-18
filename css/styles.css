@@ -54,6 +54,9 @@ a {
 
 /* Menores a 1200px */
 @media (max-width: 1200px) {
+  body .content {
+    padding-bottom: 2.5%;
+  }
   h1 {
     font-size: 36px;
   }
@@ -99,6 +102,9 @@ a {
 
 /* Menores a 768px */
 @media (max-width: 768px) {
+  body .content {
+    padding-bottom: 3%;
+  }
   h1 {
     font-size: 30px;
   }
