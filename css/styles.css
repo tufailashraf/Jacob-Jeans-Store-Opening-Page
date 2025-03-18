@@ -36,9 +36,6 @@ a {
 
 /* Menores a 1440px */
 @media (max-width: 1440px) {
-  body .content {
-    padding-bottom: 3%;
-  }
   h1 {
     font-size: 38px;
   }
@@ -54,9 +51,6 @@ a {
 
 /* Menores a 1200px */
 @media (max-width: 1200px) {
-  body .content {
-    padding-bottom: 2.5%;
-  }
   h1 {
     font-size: 36px;
   }
@@ -102,9 +96,6 @@ a {
 
 /* Menores a 768px */
 @media (max-width: 768px) {
-  body .content {
-    padding-bottom: 3%;
-  }
   h1 {
     font-size: 30px;
   }
@@ -122,9 +113,6 @@ a {
 
 /* Menores a 575px */
 @media (max-width: 575px) {
-  body .content {
-    padding-bottom: 55px;
-  }
   h1 {
     font-size: 28px;
     margin: 0 auto 30px !important;
