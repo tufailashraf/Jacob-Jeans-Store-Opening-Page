@@ -12,7 +12,7 @@ h1 {
 }
 
 body .content {
-  padding-bottom: 7%;    /* 55px */
+  padding-bottom: 55px;
 }
 
 a,
@@ -36,6 +36,9 @@ a {
 
 /* Menores a 1440px */
 @media (max-width: 1440px) {
+  body .content {
+    padding-bottom: 5%;
+  }
   h1 {
     font-size: 38px;
   }
