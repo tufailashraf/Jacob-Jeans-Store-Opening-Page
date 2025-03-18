@@ -37,7 +37,7 @@ a {
 /* Menores a 1440px */
 @media (max-width: 1440px) {
   body .content {
-    padding-bottom: 5%;
+    padding-bottom: 4%;
   }
   h1 {
     font-size: 38px;
