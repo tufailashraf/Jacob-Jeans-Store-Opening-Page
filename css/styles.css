@@ -133,6 +133,7 @@ a {
 body {
   height: calc(var(--vh) * 100);
   background: url("https://jacob-jeans.vercel.app/img/background.webp") center/cover no-repeat;
+  background-size: 100%;
   display: flex;
   place-content: center;
   align-items: center;
