@@ -122,6 +122,9 @@ a {
 
 /* Menores a 575px */
 @media (max-width: 575px) {
+  body .content {
+    padding-bottom: 55px;
+  }
   h1 {
     font-size: 28px;
     margin: 0 auto 30px !important;
